@@ -201,9 +201,9 @@ kemylly@github:~$ ./current-mission.sh
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=8B5CF6&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amwndinha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=8B5CF6&text_color=FFFFFF"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amwndinha&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF"/>
 
 </div>
 
@@ -214,38 +214,6 @@ kemylly@github:~$ ./current-mission.sh
 <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=8B5CF6&currStreakLabel=00F5FF" />
 
 </div>
-
----
-
-# 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D1117&color=00F5FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
-
-</div>
-
----
-
-# 🐍 Contribution System
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</div>
-
-> 💡 Para ativar essa animação, é necessário configurar a **GitHub Action do Snake** no seu perfil.
 
 ---
 
